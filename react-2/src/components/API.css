@@ -74,4 +74,21 @@ img {
 
   }
 
- 
+.logout {
+    margin-top: 5px;
+    display: flex;
+    justify-self: right;
+    align-items: center;
+    justify-content: center;
+    height: 30px; 
+    width: 80px; 
+    padding: 10px;
+    border-radius: 10px;
+    border:none; 
+    background-color: #babbbb;
+    cursor: pointer;
+}
+
+.logout:hover {
+    background-color: #9a9b9b;
+}
